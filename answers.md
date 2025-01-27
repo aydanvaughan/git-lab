@@ -8,7 +8,7 @@
 7. On branch main
 Changes not staged for commit:modified:   README.md
 	modified:   answers.md
- 8.commit 2158b4f52f03d33f161bfd2da75186238b87d247 (HEAD -> main)
+ 8. commit 2158b4f52f03d33f161bfd2da75186238b87d247 (HEAD -> main)
 Author: Aydan <av038523@ohio.edu>
 Date:   Fri Jan 24 14:48:06 2025 -0500
 
